@@ -35,7 +35,7 @@ const UpdateRestaurant = (props) => {
 
   return (
     <div>
-      {/* <h1>{restaurants[0].name}</h1> */}
+      <h1>{restaurants[0].name}</h1>
       <form
         action="
     "
